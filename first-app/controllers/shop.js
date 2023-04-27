@@ -1,0 +1,1 @@
+const products = require("../routes/shop")
